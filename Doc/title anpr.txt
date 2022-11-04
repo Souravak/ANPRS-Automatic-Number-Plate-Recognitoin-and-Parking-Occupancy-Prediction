@@ -1,0 +1,23 @@
+fig
+
+architecture of cuda 2.1
+Image of simulated ACS/WFC 2.2
+Architecure of the proposed system 4.1
+Image of a car (img200.png)4.2a
+xml file img200.png(img200.xml)4.2b
+raw image of a car 4.3
+Gray scale image 4.3 4.4
+Car image 4.5
+Detected number plate 4.6
+Arima based prediction result graph 4.7
+Look for seasonality and test for stationarity 4.8
+Parking mean and standard deviation 4.9
+Result of Dickey-Fuller Test 4.10
+ARIMA model test Result 4.11
+
+
+
+
+
+
+

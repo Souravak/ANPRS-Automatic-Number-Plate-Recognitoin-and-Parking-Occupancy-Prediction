@@ -1,0 +1,5 @@
+Re-entry of same vehicle
+    current status:
+        update existing data
+    we want:
+        add new document
